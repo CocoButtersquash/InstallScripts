@@ -9,6 +9,5 @@ yum install -y yum-utils
 yum groupinstall -y development
 yum install -y https://centos7.iuscommunity.org/ius-release.rpm
 yum install -y python36u python36u-pip
-yum install -y screen
 popd
 
